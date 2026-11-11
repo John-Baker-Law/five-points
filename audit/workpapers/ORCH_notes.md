@@ -162,3 +162,9 @@ Sources: Disp. Aff. = Stevens' 6/23/2026 dispossessory affidavit + exhibits (mas
 - No. 03 eff 5/27/2020 issued 9/10/2020 (policy -04, 5/1/20–5/1/21): Oconee State Bank LENDER'S LOSS PAYABLE loc 1 ALL; LP Bert Lumpkin + Stevens Brothers (loc 1 ALL); OSB mortgagee locs 2–3.
 - Named insured throughout: New Age Beverages LLC. Agent Norton Metro LLC. Form BP1203 01/10 Loss Payable Provisions on all.
 - Net: helps D1/D4/D6 + retroactivity practice; hurts certificate-only waiver theory on D2 (lessor LP historically by endorsement). Provenance unknown (re-saved 11/4/2026) — ask. Production duty if in clients' possession [VERIFY 9-11-26(e)].
+
+## 11/11 evening corrections
+- Citizens premiums: totals $14,321 (5/22/18 decs), $14,676 (6/1/18), $19,214 (5/27/20); $871/$900 = umbrella only. Audit C.1 corrected.
+- D-11 corrected: Baker's sent 6/16/2026 e-mail asked Cass (Norton Metro / Legacy) for prior 5–10 years' policies, applications, premium proof (Cass reply 6/16 19:30Z: "I will gather this info. I can not provide the 5 years of Certs as that was done through another agency since 2018"). 10/1 "have been requested" accurate as to policies; DISC C6 wrong; 10/21 "correction" wrong.
+- Drive 1szSNvs… "Athens_ST26CV0570_Discovery_Responses_Packet" = prior AI product with invented facts; not relied on.
+- FP20261001-000031–032: ACORD 27 dated 11/18/2025, Citizens OBAA911690 5/1/2021–2/28/2022, 1655, Stevens AI + LP (certificate). Added to §K.1.
