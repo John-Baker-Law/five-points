@@ -155,3 +155,10 @@ Sources: Disp. Aff. = Stevens' 6/23/2026 dispossessory affidavit + exhibits (mas
 
 ## REVIEW (separate adverse reviewer, REVIEW_flags.md): 39 flags (7H/12M/20L). All high/medium and low 1–38 applied in the deliverable; flag 39 open (confirm exact Resp. 8 words in Stevens' proposed order).
 ## Corrections to statements made to the user in chat: (1) March-rent waiver is weak — deposit 3/2 preceded accrual (~3/12) and 9/16 order treats March as unsettled; (2) Nu Age is not a "stranger" on the Lessee's sworn account (Bottle Stop Verified Ans. ¶12; Rog 3).
+
+## 11/11 ADDENDUM — user-provided Citizens OBA-A911690 amended declarations (audit §K; audit/sources/)
+- No. 02 eff 5/22/2018 issued 5/29/2018 (policy -02, 5/1/18–5/1/19): LP Harry Stevens Estate (loc 1 bldg 1), Bert Lumpkin (loc 1 bldg 1), "Burt" Lumpkin (loc 3 = 1675). "ADDED LP AT LOC #1, #3 & AMENDED LP AT LOC #1".
+- No. 04 eff 6/1/2018 issued 7/26/2018: split 1655 into 3 bldgs; 1675 DELETED; LP Bert Lumpkin + "STEVENS BROTHERS INC. ITS DIRECTORS AND OFFICERS" (loc 1 ALL).
+- No. 03 eff 5/27/2020 issued 9/10/2020 (policy -04, 5/1/20–5/1/21): Oconee State Bank LENDER'S LOSS PAYABLE loc 1 ALL; LP Bert Lumpkin + Stevens Brothers (loc 1 ALL); OSB mortgagee locs 2–3.
+- Named insured throughout: New Age Beverages LLC. Agent Norton Metro LLC. Form BP1203 01/10 Loss Payable Provisions on all.
+- Net: helps D1/D4/D6 + retroactivity practice; hurts certificate-only waiver theory on D2 (lessor LP historically by endorsement). Provenance unknown (re-saved 11/4/2026) — ask. Production duty if in clients' possession [VERIFY 9-11-26(e)].
