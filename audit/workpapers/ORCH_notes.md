@@ -152,3 +152,6 @@ Sources: Disp. Aff. = Stevens' 6/23/2026 dispossessory affidavit + exhibits (mas
 - Prime lease: no notices clause, no waiver clause, nothing on parking/encroachments. Stevens Ex.1 omits lease Exhibit A + handwritten rider; Ex.6 text missing between pages; Ex.8 lacks its exhibits; Bharat Patel line struck/unsigned; Aff ¶3 cites DB 1864 p.278 but deed stamped p.228.
 - Our filings conflict on who holds 1655 position (5/7 complaint Patel+Sonia good standing; 10/21 responses FPC holds via Sputnik, defer Patel identity; FINAL SAC ¶6 Patel = 1988/1996 signer; signatures differ A010 pp.36, 41).
 - 1996 sublease covers 1655 building only; nothing in writing governs 1675; three accounts.
+
+## REVIEW (separate adverse reviewer, REVIEW_flags.md): 39 flags (7H/12M/20L). All high/medium and low 1–38 applied in the deliverable; flag 39 open (confirm exact Resp. 8 words in Stevens' proposed order).
+## Corrections to statements made to the user in chat: (1) March-rent waiver is weak — deposit 3/2 preceded accrual (~3/12) and 9/16 order treats March as unsettled; (2) Nu Age is not a "stranger" on the Lessee's sworn account (Bottle Stop Verified Ans. ¶12; Rog 3).
