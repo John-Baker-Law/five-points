@@ -47,8 +47,8 @@ Generator: `/tmp/claude-0/-home-user-five-points/78079b8c-331a-529b-bdd6-ba9337c
 | Counsel list | DRAFTING_RULES rule 12 |
 | "U.S.C.R. 5.2" form | Plaintiff's filed 8/7/2026 Rule 5.2 Certificate ("Pursuant to U.S.C.R. 5.2…"; Outlook, kdd@fbglaw.com, 8/7/2026) |
 
-- **I did not use the word "re-service" in item 6.** Neither production ever reached DeLoach or Huestis: the 9/24 e-mail was not addressed to them, and the 10/8 e-mail bounced for both. Calling this "re-service" on them would describe earlier service that never happened. Item 6 therefore says "Copies of the documents Bates-numbered …", and a separate sentence says item 6 went only to counsel for Bottle Stop and Graymad. The certificate does not mention the 10/1, 10/14, 10/21 or 11/3 transmissions.
-- **Related:** the existing draft `Service_Cover_Email_to_All_Counsel.txt` tells Jeff and Rob the productions "are re-served on you", then says they never received them. Consider changing "re-served" to "served".
+- **I did not use the word "service" in item 6.** Neither production ever reached DeLoach or Huestis: the 9/24 e-mail was not addressed to them, and the 10/8 e-mail bounced for both. Calling this "service" on them would describe earlier service that never happened. Item 6 therefore says "Copies of the documents Bates-numbered …", and a separate sentence says item 6 went only to counsel for Bottle Stop and Graymad. The certificate does not mention the 10/1, 10/14, 10/21 or 11/3 transmissions.
+- **Related:** the existing draft `Service_Cover_Email_to_All_Counsel.txt` tells Jeff and Rob the productions "are served on you", then says they never received them. Consider changing "served" to "served".
 - Mind the Gap is listed "(appearing specially)", matching its 7/24 Answer.
 - File the certificate only after service has actually happened. Fill in the date and method to match what was actually done.
 

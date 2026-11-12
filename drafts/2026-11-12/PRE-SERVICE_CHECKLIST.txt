@@ -1,13 +1,18 @@
 ST26CV0570 — before serving the 11/12 papers (nothing has been sent, filed, or served)
 
-1. CLIENT ANSWERS: send Client_Questions_2026-11-12 (Patel P1-P8; Sachin N1-N5; Heet F1-F8; Michael White M1-M8). Fill every [CLIENT Q] bracket. Answer drafts use their own Q1-Q5 (key at bottom of the sheet).
+1. CLIENT ANSWERS: send Client_Questions_2026-11-12 (Patel P1-P8; Sachin N1-N5; Heet F1-F10; Michael White M1-M9). Fill every [CLIENT Q] bracket. Answer drafts use their own Q1-Q5 (key at bottom of the sheet).
 2. VERIFICATIONS: signed and notarized for Patel (after P1/P2 settle which Balubhai signs), Five Points Clarke (Heet Patel, after F1), and Mind the Gap (Michael White, after M1). Nu Age has no interrogatories, so no verification.
 3. PRODUCTION: assign Bates to every [PRODUCTION: FP2026____] item. Include the three Citizens declarations (record who supplied them first) and FP20261001-000031-000033. Anything not in hand stays "will be produced by supplemental response."
 4. STILL TO PULL: Secretary of State records (Sonia; Sonia & Shane; Nu Age), Nu Age June/July/October 2026 statements and register, and Patel's own e-mail.
-5. RE-SERVE ON CO-DEFENDANTS: FP20260924-000001-000324 and FP20261008-000001-000410 to DeLoach and Huestis (they never received them). List both in each certificate.
+5. SERVE PRIOR PRODUCTIONS ON CO-DEFENDANTS: FP20260924-000001-000324 and FP20261008-000001-000410 to DeLoach and Huestis (they never received them). List both in each certificate.
 6. CERTIFICATES OF SERVICE: fill in the date and method only when actually served, to all five counsel. Do not use the old 10/21 or 11/3 drafts, or the 11/3 Rule 5.2 certificates; they recite service that never happened.
 7. ANSWERS TO FIRST AMENDED COMPLAINT: decide whether to file. [VERIFY] whether a response is required and whether it must be verified, because Stevens' FAC is verified. Both drafts withdraw the "contemporaneously filed" / "filed herein" statements and Mind the Gap's "no demand" statement.
 8. MANOLL 11/6 RULE 6.4 LETTER: respond by 11/12 (serve, or agree an extension in writing).
 9. MEDIATION: deadline about 11/15-16. The joint motion to extend is still unsent.
 10. INSURANCE: Hanover expires 11/19 and Harford 11/21. The renewal should name Stevens AND Bottle Stop as loss payees by endorsement.
 11. DO NOT USE: Drive "Athens_ST26CV0570_Discovery_Responses_Packet" (contains invented facts) or the 10/8 Fulton joinder packet (pre-signed "/s/ DeLoach" and "/s/ Huestis").
+12. CONSISTENCY (see audit/Tenant_Side_Consistency_Flags_2026-11-12.html): clear every new bracket added 11/12 (BS-2, BS-15, BS-16, G-02, G-05, G-10) before service. Confirm the payee on the Nu Age check images before verification.
+13. CO-COUNSEL LETTERS (DeLoach, Huestis): your call on the counsel-relationship note (report section 6) before sending the DeLoach letter. In the Huestis letter, keep or strike the Fulton "written consent" commitment.
+14. PRIVILEGE: decide whether Sachin's 2/18/2026 e-mail to Will Leach, copied to Clegg, is identified in Patel Int. 1(n).
+15. LEGACY 11/6 PRODUCTION: download the SharePoint folder before the Rule 6.4 call. Legacy's RFP 4 and RFP 9 "not in possession" answers are contradicted by the record. Our drafts do not rely on them.
+16. FULTON: before ANY further Fulton paper, apply report section 5 (no Bottle Stop or Graymad as plaintiffs without written consent; delete "additional insured"; Graymad is not "owner/operator" of Slater's).
